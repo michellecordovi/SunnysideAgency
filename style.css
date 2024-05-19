@@ -180,10 +180,10 @@ header {
             display: block;
       }
 
-      .mobile-nav:hover #triangle,
+      /* .mobile-nav:hover #triangle,
       .mobile-nav:active .mobile-navbar {
             display:block;
-      }
+      } */
 
 }
 
