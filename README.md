@@ -38,8 +38,8 @@ Below are the images of both the desktop site(1440px) and mobile site(375px).
 
 ### Links
 
-- Solution URL: [https://github.com/michellecordovi/SunnysideAgency](https://your-solution-url.com)
-- Live Site URL: [https://michellecordovi.github.io/SunnysideAgency/](https://your-live-site-url.com)
+- Solution URL: [Sunnyside Agency Repo](https://github.com/michellecordovi/SunnysideAgency)
+- Live Site URL: [Sunnyside Agency](https://michellecordovi.github.io/SunnysideAgency/)
 
 ## My process
 
