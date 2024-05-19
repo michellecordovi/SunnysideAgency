@@ -181,8 +181,8 @@ header {
       }
 
       /* this is so that drop down menu disappear on mobile */
-      .banner:hover .mobile-navbar,
-      .banner:hover .triangle{
+      .mobile-nav:active .mobile-navbar,
+      .mobile-nav:active #triangle{
             display: none;
       }
 
