@@ -175,17 +175,6 @@ header {
             cursor: pointer;
       }
 
-      .mobile-nav:hover #triangle,
-      .mobile-nav:hover .mobile-navbar {
-            display: block;
-      }
-
-      /* this is so that drop down menu disappear on mobile */
-      .mobile-nav:active .mobile-navbar,
-      .mobile-nav:active #triangle{
-            display: none;
-      }
-
 }
 
 
